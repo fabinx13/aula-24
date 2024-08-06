@@ -1,0 +1,4 @@
+<?php
+
+$beker = array('chato', 'irritante', 'top');
+print_r($beker);
