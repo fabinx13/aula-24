@@ -1,0 +1,6 @@
+<?php
+$palavras = array("maçã", "banana", "laranja", "uva", "manga", "abacaxi", "pêssego",
+"kiwi", "morango", "melancia");
+echo ($palavras[5] . "\n");
+echo $palavras [9];
+?>
